@@ -60,7 +60,7 @@ export default function index() {
 
       <Image 
           style={estilos.logo}
-          source={require('@/assets/images/layout/logo.jpg')}
+          source={require('@/assets/images/')}
       />
 
       <Text style={estilos.titulo}>Eureca!</Text>
